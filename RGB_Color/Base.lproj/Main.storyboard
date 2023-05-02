@@ -81,19 +81,19 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="eLH-mX-NGb">
                                         <rect key="frame" x="118" y="0.0" width="170" height="106"/>
                                         <subviews>
-                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="f4c-pj-Tn5">
+                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.20000000000000001" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="f4c-pj-Tn5">
                                                 <rect key="frame" x="-2" y="0.0" width="174" height="31"/>
                                                 <connections>
                                                     <action selector="rgbSkider:" destination="BYZ-38-t0r" eventType="valueChanged" id="ers-O7-buQ"/>
                                                 </connections>
                                             </slider>
-                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="pd3-zD-yDb">
+                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.59999999999999998" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="pd3-zD-yDb">
                                                 <rect key="frame" x="-2" y="38" width="174" height="31"/>
                                                 <connections>
                                                     <action selector="rgbSkider:" destination="BYZ-38-t0r" eventType="valueChanged" id="LfB-xx-EIh"/>
                                                 </connections>
                                             </slider>
-                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="quJ-LD-nYa">
+                                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.90000000000000002" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="quJ-LD-nYa">
                                                 <rect key="frame" x="-2" y="76" width="174" height="31"/>
                                                 <connections>
                                                     <action selector="rgbSkider:" destination="BYZ-38-t0r" eventType="valueChanged" id="iu2-rk-Tou"/>
